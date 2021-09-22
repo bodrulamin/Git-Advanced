@@ -12,3 +12,8 @@ git init
 git add .
 ```
 
+
+3. Commit the staged files
+```
+git commit -m "message"
+```
