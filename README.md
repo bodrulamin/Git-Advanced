@@ -17,3 +17,7 @@ git add .
 ```
 git commit -m "message"
 ```
+### 4. Push changes to remote repository
+```
+git push
+```
