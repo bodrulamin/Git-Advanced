@@ -1,7 +1,7 @@
 # Git-Advanced
 Some of the advanced git commands
 
-## Initialize git
+1.  Initialize git
 ```
 git init
 ```
