@@ -1,4 +1,4 @@
-# Git-Advanced
+# Git-BeginerToAdvanced
 Some of the advanced git commands
 
 ### 1.  Initializing git in current directory
