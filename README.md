@@ -21,3 +21,9 @@ git commit -m "message"
 ```
 git push
 ```
+### 5. List of git branches
+```
+git branch
+or
+git branch --list
+```
